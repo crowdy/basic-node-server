@@ -35,3 +35,10 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# TypeScript definition files
+typings/
+
+# Specific files
+*.js.map
+api/mockdb.js
